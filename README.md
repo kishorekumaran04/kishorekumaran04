@@ -1,11 +1,11 @@
 <h1>Hi! I'm Kishore Kumaran</h1>
-<h3>A first-year Master student in Computer Science at Dartmouth College.</h3>
+<h3>A Master in Computer Science candidate at Dartmouth College.</h3>
 
 
 
 - 🔭 I’m currently working on **Neural Networks to detect Deep Fakes**
 
-- 🌱 I’m currently learning **Neural Networks and LLMs, Django framework**
+- 🌱 I’m currently learning **Neural Networks and LLMs**
 
 - 👨‍💻 All of my projects are available at https://github.com/kishorekumaran04?tab=repositories
 
